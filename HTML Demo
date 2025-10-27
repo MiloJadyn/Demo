@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+<body>
+
+<h1>Say My Name</h1>
+<h2><a href=https://www.youtube.com/watch?v=3R09sJuWSZg>By Prince of Eden</a><h2>
+<p>I like the way you say my <sup>name</sup></p>
+<p>with the <i>warmest embrace</i></p>
+<p>I like the way it <sup>shoots me</sup></p>
+<p>far out in the <i>nothing of space</i></p>
+<p>Oh the way you say <sup>my name’s</sup></p>
+<p>like the <i>sweetest of tastes</i></p>
+<p><sub>I like the way</sub><sup> I like the way</sup></p>
+<h6><b><i>Oh I love the way</i></b></h6>
+
+</body>
+</html>
+<style>
+body {
+	background-color:steelblue;
+}
+h1 {
+	color: lightcoral;
+    font-family: Courier;
+    font-size: 65px;
+}
+h2 {
+	color:lavenderblush;
+    font-family: Courier;
+    font-size: 30px;
+}
+p {
+	color: powderblue;
+    font-family: verdana;
+    font-size: 18px;
+    text-indent:15px;
+}
+h6 {
+	color:lightcoral;
+    font-family:verdana;
+    font-size:18px;
+    text-indent:15px;
+}
+a {
+	color:lemonchiffon;
+}
+i {
+	color:lightcoral;
+}
+sup {
+	color:mistyrose;
+}
+sub {
+	color:lemonchiffon;
+}
+
+
+<!--Code written with the help of lecture of html and css part one-->
+<!--Code written with the help of the module example-->
+<!--Code written with the help of W3schools-->
+<!--Code written with the help of Vital Source Code-->

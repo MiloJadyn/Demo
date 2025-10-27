@@ -1,1 +1,1 @@
-This is being sued as a demo to leanr about the Git and the GItHUb interface.
+This is being used as a demo to learn about the Git and the GItHUb interface.
